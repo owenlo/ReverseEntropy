@@ -1,0 +1,7 @@
+C:\Users\newo\Desktop\entr\Entropy\Entropy.Engine\obj\Debug\Entropy.Engine.csprojResolveAssemblyReference.cache
+C:\Users\newo\Desktop\entr\Entropy\Entropy.Engine\bin\Debug\Entropy.Engine.dll
+C:\Users\newo\Desktop\entr\Entropy\Entropy.Engine\bin\Debug\Entropy.Engine.pdb
+C:\Users\newo\Desktop\entr\Entropy\Entropy.Engine\bin\Debug\Entrop.Entities.dll
+C:\Users\newo\Desktop\entr\Entropy\Entropy.Engine\bin\Debug\Entrop.Entities.pdb
+C:\Users\newo\Desktop\entr\Entropy\Entropy.Engine\obj\Debug\Entropy.Engine.dll
+C:\Users\newo\Desktop\entr\Entropy\Entropy.Engine\obj\Debug\Entropy.Engine.pdb

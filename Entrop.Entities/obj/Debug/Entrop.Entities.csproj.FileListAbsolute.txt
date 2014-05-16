@@ -1,0 +1,5 @@
+C:\Users\newo\Desktop\entr\Entropy\Entrop.Entities\bin\Debug\Entrop.Entities.dll
+C:\Users\newo\Desktop\entr\Entropy\Entrop.Entities\bin\Debug\Entrop.Entities.pdb
+C:\Users\newo\Desktop\entr\Entropy\Entrop.Entities\obj\Debug\Entrop.Entities.csprojResolveAssemblyReference.cache
+C:\Users\newo\Desktop\entr\Entropy\Entrop.Entities\obj\Debug\Entrop.Entities.dll
+C:\Users\newo\Desktop\entr\Entropy\Entrop.Entities\obj\Debug\Entrop.Entities.pdb

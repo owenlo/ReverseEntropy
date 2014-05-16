@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Entropy.Engine", "Entropy.Engine\Entropy.Engine.csproj", "{C339BF7A-B77D-4E80-A36F-17B37975DDE4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Entropy.Entities", "Entrop.Entities\Entropy.Entities.csproj", "{70412524-7515-4309-84FE-B849DF5C2837}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Entropy.Application", "Entropy.Application\Entropy.Application.csproj", "{13269D3A-19D9-4941-BDFC-ACACABC4F9EC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C339BF7A-B77D-4E80-A36F-17B37975DDE4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C339BF7A-B77D-4E80-A36F-17B37975DDE4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C339BF7A-B77D-4E80-A36F-17B37975DDE4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C339BF7A-B77D-4E80-A36F-17B37975DDE4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{70412524-7515-4309-84FE-B849DF5C2837}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{70412524-7515-4309-84FE-B849DF5C2837}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{70412524-7515-4309-84FE-B849DF5C2837}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{70412524-7515-4309-84FE-B849DF5C2837}.Release|Any CPU.Build.0 = Release|Any CPU
+		{13269D3A-19D9-4941-BDFC-ACACABC4F9EC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{13269D3A-19D9-4941-BDFC-ACACABC4F9EC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{13269D3A-19D9-4941-BDFC-ACACABC4F9EC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{13269D3A-19D9-4941-BDFC-ACACABC4F9EC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
